@@ -1,0 +1,2 @@
+# myneovim
+my neovim set
